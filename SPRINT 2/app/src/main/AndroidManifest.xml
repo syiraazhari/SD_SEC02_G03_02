@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.loginapps">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="UTM EASY EXAM"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LoginApps">
+        <activity
+            android:name=".ComputerScienceInfo"
+            android:exported="false" />
+        <activity
+            android:name=".Lecturer.ListOfSubjectAndCoursesMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ExaminationRulesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Student.ComputerScienceTable"
+            android:exported="false" />
+        <activity
+            android:name=".SubjectRegistration"
+            android:exported="false" />
+        <activity
+            android:name=".Lecturer.GenerateQrCodeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Lecturer.LecturerHomePageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Lecturer.LecturerMainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Student.TimeTableActivity"
+            android:exported="false" />
+        <activity
+            android:name=".qrscanner"
+            android:exported="false" />
+        <activity
+            android:name=".Student.ScanQRCodeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UpdatePassword"
+            android:exported="false" />
+        <activity
+            android:name=".UpdateProfile"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Student.SecondActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegistrationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
