@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/drawable/cut_card_background.xml" value="0.1" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/drawable/ic_baseline_format_list_bulleted_24.xml" value="0.18871794871794872" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/drawable/ic_examination_rules.xml" value="0.1" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_admin_login.xml" value="0.22" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_admin_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_computer_science_info.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_computer_science_table.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_diploma.xml" value="0.1" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_examination_rules.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_generate_qr_code.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_home_page.xml" value="0.10666666666666667" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_lecturer_home_page.xml" value="0.22" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_lecturer_login.xml" value="0.1" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_lecturer_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_lecturer_pdf.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_lecturer_profile.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_lecturer_update.xml" value="0.1" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_list_of_subject_and_courses_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_password.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_qrscanner.xml" value="0.1" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_registeration_slip.xml" value="0.22" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_registration.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_scan_qrcode.xml" value="0.22" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_scanqrcode.xml" value="0.1" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_second.xml" value="0.22" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_second_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_staff_login.xml" value="0.115625" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_staff_login2.xml" value="0.1" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_staff_main.xml" value="0.1" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_staff_pdf.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_student_list.xml" value="0.1" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_student_pdf.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_subject_registration.xml" value="0.22" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_time_table.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_update_password.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_update_profile.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_view_lecturers.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_view_staffs.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/activity_view_students.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/layout/item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/najwa asyilah/LoginApps/app/src/main/res/menu/menu.xml" value="0.13229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

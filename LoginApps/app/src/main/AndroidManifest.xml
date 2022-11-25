@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.loginapps">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="UTM EASY EXAM"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LoginApps">
+        <activity
+            android:name=".Pdf.StaffPdfActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pdf.StudentPdfActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pdf.LecturerPdfActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Admin.ViewLecturers"
+            android:exported="false" />
+        <activity
+            android:name=".Admin.ViewStaffs"
+            android:exported="false" />
+        <activity
+            android:name=".Admin.ViewStudents"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.StaffMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Admin.AdminMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Lecturer.LecturerLogin"
+            android:exported="false" />
+        <activity
+            android:name=".Lecturer.StudentList"
+            android:exported="false" />
+        <activity
+            android:name=".Login.StaffLogin"
+            android:exported="false" />
+        <activity
+            android:name=".Login.AdminLogin"
+            android:exported="false" />
+        <activity
+            android:name=".Login.StaffLogin"
+            android:exported="false" />
+        <activity
+            android:name=".Page.SecondMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Both.ComputerScienceInfo"
+            android:exported="false" />
+        <activity
+            android:name=".Lecturer.ListOfSubjectAndCoursesMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Both.ExaminationRulesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Student.ComputerScienceTable"
+            android:exported="false" />
+        <activity
+            android:name=".Student.SubjectRegistration"
+            android:exported="false" />
+        <activity
+            android:name=".Lecturer.GenerateQrCodeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Lecturer.LecturerHomePageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Student.TimeTableActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Student.qrscanner"
+            android:exported="false" />
+        <activity
+            android:name=".Student.ScanQRCodeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Password.UpdatePassword"
+            android:exported="false" />
+        <activity
+            android:name=".Profile.UpdateProfile"
+            android:exported="false" />
+        <activity
+            android:name=".Profile.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Password.PasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Student.SecondActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Profile.RegistrationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Page.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
